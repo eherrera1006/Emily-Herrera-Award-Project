@@ -1,0 +1,55 @@
+body {
+    font-family: 'Syncopate', sans-serif;
+    text-align: center;
+}
+h1 { 
+    font-family: 'Notable', sans-serif;
+    font-size: 65px;
+}
+p {
+    font-family: 'Changa One', cursive;
+    font-size: 24px;
+    color: gold;
+}
+.cardib {
+        width: 400px;
+        border: solid 20px black;
+}
+
+.misty {
+    width: 400px;
+    border: solid 35px pink;
+}
+
+.panther {
+    width: 400px;
+    border: solid 15px red;
+}
+
+.astro {
+    width: 500px;
+    border: solid 40px purple;
+}
+
+strong {
+    font-size: 56px;
+    
+}
+
+body {
+    background-color: #ff8d23 ;
+}
+h2 {
+     font-family: 'Notable', sans-serif;
+     font-size: 65px;
+}
+
+h3 {
+     font-family: 'Notable', sans-serif; 
+     font-size: 65px;
+}
+
+h4 {
+     font-family: 'Notable', sans-serif;
+     font-size: 65px;
+}
